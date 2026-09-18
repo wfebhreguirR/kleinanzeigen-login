@@ -1,0 +1,10 @@
+{
+  "description": "This web application facilitates real-time multilingual communication, allowing users to easily translate and converse across language barriers.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
